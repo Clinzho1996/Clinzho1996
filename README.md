@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 Skills  
+## 🔥 My Skills  
 - Frontend: **React.js, Next.js, Tailwind CSS, Javascript, TypeScript**  
 - Backend: **Node.js, MongoDB, SQL**  
 - Mobile Dev: **React Native, Expo**
