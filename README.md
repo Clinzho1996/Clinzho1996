@@ -23,7 +23,7 @@
 🔹 [Quanskill Web App & Admin Dashboard](https://www.quanskill.com) – Online Learning Managment Platform for a Vietnamese based company  
 🔹 [Nigerian Airspace Website](https://nama.gov.ng) – Nigerian Airspace Management Authority Website  
 🔹 [Lagos Agric Website](https://lagosagric.com) – Lagos State Ministry of Agriculture Website  
-🔹 [Comic Scrolls Mobile App and Creators Dashboard](https://comicscrolls.com) – Mobile App, Creators dashboard, and Admin Dashboard for PottersPrompt Limited  
+🔹 [Comic Scrolls Mobile App and Creators Dashboard](https://comicscrolls.com) – Mobile App, Creators & Admin Dashboard for PottersPrompt Limited  
 🔹 [AI Summarizer](https://devclinton-ai-sum.netlify.app/) – AI-powered content summarization  
 🔹 [AbeyTrust](https://abeytrust.com) – Corporate site with e-commerce and blog features 
 
