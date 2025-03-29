@@ -31,7 +31,7 @@
 
 ## 🌐 Portfolio & Socials  
 
-[![🌍 Portfolio](https://img.shields.io/badge/Portfolio-devclinton_vercel_app-green?style=flat&logo=vercel)](https://devclinton.vercel.app/)  
+[![🌍 Portfolio](https://img.shields.io/badge/Portfolio-devclinton.vercel.app-green?style=flat&logo=vercel)](https://devclinton.vercel.app/)    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DevClinton-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dev-clinton/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Dev--Clinton-black?style=flat&logo=github)](https://github.com/Clinzho1996)  
 [![Instagram](https://img.shields.io/badge/Instagram-@devclinton-purple?style=flat&logo=instagram)](https://instagram.com/clinton_tech)  
